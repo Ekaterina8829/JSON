@@ -1,11 +1,11 @@
 {
-“Bug_id”: Bug_id,
-“Summary”: “Summary”,
+“Bug_id”: "Bug_id",
+“Summary”: “summary”,
 “Severity”: “Severity”,
 “Priority”: “Priority”,
 “Environment”: “Environment”,
-“Steps to Reproduce”: “Steps to Reproduce”,
-“Actual Result”: “Actual Result”,
-“Expected Result”: “Expected Result”,
+“Steps_to_Reproduce”: “Steps to Reproduce”,
+“Actual_Result”: “Actual Result”,
+“Expected_Result”: “Expected Result”,
 “Attachments”: “Attachments”
 }
