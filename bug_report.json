@@ -1,7 +1,7 @@
 {
-“Bug_id”: "Bug_id",
+“bug_id”: "Bug_id",
 “Summary”: “summary”,
-“Severity”: “Severity”,
+“Severity”: “hight”,
 “Priority”: “Priority”,
 “Environment”: “Environment”,
 “Steps_to_Reproduce”: “Steps to Reproduce”,
