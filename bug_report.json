@@ -1,10 +1,13 @@
 {
-“Summary”: “summary”,
-“Severity”: “hight”,
-“Priority”: “Priority”,
-“Environment”: “Environment”,
-“Steps_to_Reproduce”: “Steps to Reproduce”,
-“Actual_Result”: “Actual Result”,
-“Expected_Result”: “Expected Result”,
-“Attachments”: “Attachments”
+	"bug_id": 14
+	"Summary": "Sammary",
+	"severity": "Severity",
+	"priority": "Priority",
+	"environment": "Environment",
+	"Steps_to_reproduce": "steps_to_reproduce",
+	"actual_result": "actual_results",
+	"expected_result": "expected_result",
+	"attachments": "attachments"
+
+
 }
